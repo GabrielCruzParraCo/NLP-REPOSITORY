@@ -6,7 +6,7 @@
 
 ## Portafolio
 
-### Adquisición de textos
+### [Adquisición de textos](https://github.com/GabrielCruzParraCo/NLP-REPOSITORY/blob/master/Taller2%20Gabriel%20Cruz%20Clase%2025%20Feb%202021.ipynb)
 *Métodos de adquisición de texto más comunes: Datos abiertos, archivos más comunes: .csv, .txt, .json, .zip, archivos Office: Word, Excel, Google Sheets, PDFs, imágenes y aumentación de datos.*
 
 ### Extracción, pre-procesamiento y normalización de textos.
