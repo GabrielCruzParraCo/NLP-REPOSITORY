@@ -2,7 +2,9 @@
 
 **Autor:** Gabriel Cruz Parra
 
-*Este sitio presenta los talleres desarrollados en el curso de procesamiento de lenguaje natural; asignatura electiva para el periodo académico 2021-1, semestre II, en el programa Maestría en analítica estratégica de datos de la Fundación Universitaria Konrad Lorenz.* 
+Este sitio presenta los talleres desarrollados en el curso de procesamiento de lenguaje natural; asignatura electiva para el periodo académico 2021-1, semestre II, en el programa Maestría en analítica estratégica de datos de la Fundación Universitaria Konrad Lorenz.
+
+Para una correcta visualización de los gráficos interactivos presentes en los talleres puede utilizarse la herramienta "nbviewer" disponible en el siguiente enlace [jupyter viewer](https://nbviewer.jupyter.org/).
 
 ## Portafolio
 
