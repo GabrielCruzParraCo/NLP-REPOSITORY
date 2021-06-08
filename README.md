@@ -19,31 +19,25 @@
 ### [Representación vectorial de textos (parte 2)](https://github.com/GabrielCruzParraCo/NLP-REPOSITORY/blob/master/Taller5%20Gabriel%20Cruz%20Clase%2018%20Mar%202021.ipynb)
 *Métodos de vectorización: TF-IDF. Medidas de similitud: Distancia Euclidiana, distancia del coseno, distancia de Jaccard, distancia de Levenshtein*
 
-### [Representación vectorial de textos (parte 3)](https://github.com/GabrielCruzParraCo/NLP-REPOSITORY/blob/master/Taller7%20Gabriel%20Cruz%20Clase%2015%20Abr%202021.ipynb)
-*Word2Vec: CBOW, SkipGram*
+### [Clasificación de Textos](https://github.com/GabrielCruzParraCo/NLP-REPOSITORY/blob/master/Taller7%20Gabriel%20Cruz%20Clase%2015%20Abr%202021.ipynb)
+*Modelos de clasificación para NLP y medidas de rendimiento para modelos de clasificación.: Regresión logística, bayesiano ingenuo (Naive Bayes), máquinas de vectores de soporte (SVM), árboles de decisión*
 
-### [Clasificación de Textos (Parte 1)](https://github.com/GabrielCruzParraCo/NLP-REPOSITORY/blob/master/Taller8%20Gabriel%20Cruz%20Clase%2022%20Abr%202021.ipynb)
-*Modelos en Machine Learning: Modelos de clasificación y medidas de rendimiento para modelos de clasificación.*
-
-### [Clasificación de Textos (Parte 2)](https://github.com/GabrielCruzParraCo/NLP-REPOSITORY/blob/master/Taller9%20Gabriel%20Cruz%20Clase%2029%20Abr%202021.ipynb)
-*Modelos de clasificación para NLP: Regresión logística, bayesiano ingenuo (Naive Bayes), máquinas de vectores de soporte (SVM), árboles de decisión*
-
-### [Agrupación de Textos con K-Means](https://github.com/GabrielCruzParraCo/NLP-REPOSITORY/blob/master/Taller10%20Gabriel%20Cruz%20Clase%2006%20May%202021.ipynb)
+### [Agrupación de Textos con K-Means](https://github.com/GabrielCruzParraCo/NLP-REPOSITORY/blob/master/Taller8%20Gabriel%20Cruz%20Clase%2022%20Abr%202021.ipynb)
 *Agrupación de textos con modelo K-Means*
 
-### [Modelado de Temas](https://github.com/GabrielCruzParraCo/NLP-REPOSITORY/blob/master/Taller11%20Gabriel%20Cruz%20Clase%2013%20May%202021.ipynb)
+### [Modelado de Temas](https://github.com/GabrielCruzParraCo/NLP-REPOSITORY/blob/master/Taller9%20Gabriel%20Cruz%20Clase%2029%20Abr%202021.ipynb)
 *Panorama del Modelado de temas, LDA: Latent Dirichlet Allocation*
 
-### [Visualizaciones para NLP](https://github.com/GabrielCruzParraCo/NLP-REPOSITORY/blob/master/Taller12%20Gabriel%20Cruz%20Clase%2020%20May%202021.ipynb)
+### [Visualizaciones para NLP](https://github.com/GabrielCruzParraCo/NLP-REPOSITORY/blob/master/Taller10%20Gabriel%20Cruz%20Clase%2006%20May%202021.ipynb)
 *Importancia de hacer visualizaciones, herramientas disponibles para hacer visualizaciones, mejores prácticas, presentaciones en Jupyter Notebook, nube de palabras en Python, Tableau: Nube de palabras, mapa de árbol, mapa y Tableau Public*
 
-### Redes Sociales y NLP
+### [Redes Sociales y NLP](https://github.com/GabrielCruzParraCo/NLP-REPOSITORY/blob/master/Taller11%20Gabriel%20Cruz%20Clase%2013%20May%202021.ipynb)
 *NLP y Redes Sociales, la API de Twitter, scraping Twitter, pre-procesamiento para Twitter, visualizaciones usando Plotly*
 
-### Análisis de Sentimiento
+### [Análisis de Sentimiento](https://github.com/GabrielCruzParraCo/NLP-REPOSITORY/blob/master/Taller12%20Gabriel%20Cruz%20Clase%2020%20May%202021.ipynb)
 *Análisis de Sentimiento, etiquetados vs No etiquetados, limitaciones. Librerias de Python: VADER, TextBlob, Flair*
 
 ### [Proyecto final](https://github.com/GabrielCruzParraCo/NLP-REPOSITORY/blob/master/Proyecto%20Final%20NLP.ipynb)
-*Análisis de opinión de políticos sobre temas específicos en retrospectiva de máximo 10 años para determinar cambios de concepto*
+*Análisis de opinión de políticos sobre temas específicos en retrospectiva de máximo 10 años para determinar cambios de concepto desarrollado con PyWidgets es necesario descargarlo para visualización adecuada.*
 
 
