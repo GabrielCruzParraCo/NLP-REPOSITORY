@@ -1,3 +1,4 @@
 theme: jekyll-theme-tactile
 title: Portafolio procesamiento de lenguaje natural
 description: Talleres desarrollados en curso NLP
+remote_theme: https://volny.github.io/creative-theme-jekyll/
